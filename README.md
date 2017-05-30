@@ -3,6 +3,6 @@
 ## Assembly Line Scheduling
 
 - [Problem Link](http://www.koitp.org/problem/ASSEMBLY_LINE_SCHEDULING/read/)
-- [Source Link](https://github.com/cliche90/)
+- [Source Link](https://github.com/cliche90/algorithm_prob/blob/master/AssemblyLineScheduling.java)
 - DP
 
